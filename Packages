@@ -1,0 +1,15 @@
+Package: rtiremotelauncher
+Version: 0.1
+Architecture: amd64
+Essential: no
+Maintainer: Fabrizio Bertocci <fabrizio@rti.com>
+Installed-Size: 12000
+Filename: ./rtiremotelauncher-0.1.0.deb
+Size: 2959352
+MD5sum: 8ad610e7b9f6aaefdda149c4c65c706e
+SHA1: 4856803f90979a926819809b34a86e58ec4a826d
+SHA256: 2a7f8ec5de99efbcb4b6bcf7a90bc8bf0fa56abb9288c775a34b49a2e9b27777
+Section: utils
+Priority: optional
+Description: Allow to remotely start, stop, and monitor applications
+
