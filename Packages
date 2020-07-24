@@ -1,29 +1,14 @@
 Package: rtiremotelauncher
-Version: 0.1.0-2
+Version: 0.1.0-4
 Architecture: amd64
 Essential: no
 Maintainer: Fabrizio Bertocci <fabrizio@rti.com>
 Installed-Size: 12000
-Filename: ./rtiremotelauncher-0.1.0-2.deb
-Size: 2961652
-MD5sum: 403022ab16bc4ef05447084ec2f7ff3c
-SHA1: b8833f65816f08b93312e1fd34332ab4c49bbdd3
-SHA256: dc9d21ad3d6fd1b9ee104b76adeb7e5bf29929a7cbc7045f2c164c4424a74ba4
-Section: utils
-Priority: optional
-Description: Service Daemon that implements a client API to allow a remote client to start, stop, and monitor local applications
-
-Package: rtiremotelauncher
-Version: 0.1.0-3
-Architecture: amd64
-Essential: no
-Maintainer: Fabrizio Bertocci <fabrizio@rti.com>
-Installed-Size: 12000
-Filename: ./rtiremotelauncher-0.1.0-3.deb
-Size: 2970032
-MD5sum: 251ae9683565a43fb6a978583c50c68a
-SHA1: 64eeab87572554c5d7160b007733b6fd66fb731a
-SHA256: 2531f799e842db7cae320ed840f7c5fe65645c0150ce9e4677a6a7ac542c2440
+Filename: ./rtiremotelauncher-0.1.0-4.deb
+Size: 2970564
+MD5sum: 46338230f3c94c081a7f047145d89e10
+SHA1: 16a00fae225415d35c53011bdca0215e1df329d7
+SHA256: 8f168e2883c8b4053935cbbdcc65922178e924ba284b7c7e9bdc09d375766980
 Section: utils
 Priority: optional
 Description: Service Daemon that implements a client API to allow a remote client to start, stop, and monitor local applications
